@@ -2,7 +2,7 @@ export const productData = {
   name: "Apple iPhone 16",
   price: 5998.0,
   description:
-    "Tênis esportivo com tecnologia de amortecimento avançada, ideal para corridas e treinos intensos. Material respirável e solado antiderrapante.",
+    "O primeiro iPhone pensado para Apple Intelligence. Pessoal, privada, poderosa.",
   images: [
     "/assets/iphone-16.webp",
     "/assets/iphone-16.webp-2",
